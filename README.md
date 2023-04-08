@@ -1,3 +1,3 @@
 # test-pull-request
 
-Ini readme yang udah diedit
+Ini readme yang telah diedit dan disempurnakan
